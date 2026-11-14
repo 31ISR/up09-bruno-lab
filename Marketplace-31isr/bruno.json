@@ -1,0 +1,17 @@
+{
+  "version": "1",
+  "name": "Marketplace-31isr",
+  "type": "collection",
+  "proxy": {
+    "bypassProxy": "",
+    "enabled": "global",
+    "auth": {
+      "enabled": false,
+      "username": "",
+      "password": ""
+    },
+    "port": null,
+    "hostname": "",
+    "protocol": "https"
+  }
+}
